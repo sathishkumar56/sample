@@ -16,7 +16,6 @@ function App() {
     <>
       <div >
         <Carousel1 images={images} />
-        {/* < Carousel1 /> */}
       </div>
       
       <div>
