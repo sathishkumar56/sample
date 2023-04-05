@@ -10,14 +10,14 @@ import Img4 from './images/s4.jpg';
 
 function App() {
   const images = [
-    Img1,Img2, Img3, Img4
+    Img1, Img2, Img3, Img4
   ];
   return (
     <>
       <div >
         <Carousel1 images={images} />
       </div>
-      
+
       <div>
         <Login />
       </div>
