@@ -14,7 +14,7 @@ function App() {
   ];
   return (
     <>
-      <div >
+      <div class ="sample">
         <Carousel1 images={images} />
       </div>
 
